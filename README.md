@@ -1,4 +1,4 @@
-![logo]([https://github.com/goPRAMIT/goPRAMIT/blob/main/android_banner.json](https://lottie.host/?file=aba54529-2709-4faf-b840-882c98f139ba/K6fDlUQJ6c.json))(https://lottie.host/?file=aba54529-2709-4faf-b840-882c98f139ba/K6fDlUQJ6c.json)
+![logo](<lottie-player src="https://raw.githubusercontent.com/goPRAMIT/goPRAMIT/main/android_banner.json" background="transparent"  speed="1"  style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>)
 
 <h1 align="center">Hi 👋, I'm Pramit</h1>
 <h3 align="center">Android developer x Competitive Programmer from India.</h3>
