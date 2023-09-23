@@ -1,4 +1,4 @@
-[![MasterHead](<lottie-player src="https://lottie.host/aba54529-2709-4faf-b840-882c98f139ba/K6fDlUQJ6c.json" background="transparent"  speed="1"  style="width: 300px; height: 300px;" loop controls autoplay></lottie-player>)]
+[![MasterHead](<[lottie-player src="https://lottie.host/aba54529-2709-4faf-b840-882c98f139ba/K6fDlUQJ6c.json" background="transparent"  speed="1"  style="width: 300px; height: 300px;" loop controls autoplay></lottie-player](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)>)]
 
 <h1 align="center">Hi 👋, I'm Pramit</h1>
 <h3 align="center">Android developer x Competitive Programmer from India.</h3>
