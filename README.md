@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+[![MasterHead](<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/aba54529-2709-4faf-b840-882c98f139ba/K6fDlUQJ6c.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>)](<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
 
     <dotlottie-player src="https://lottie.host/aba54529-2709-4faf-b840-882c98f139ba/K6fDlUQJ6c.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>)
 <h1 align="center">Hi 👋, I'm Pramit</h1>
