@@ -1,4 +1,4 @@
-![logo](https://github.com/goPRAMIT/goPRAMIT/blob/main/Banner.gif)
+![logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy39XoimXsDibFPp8c8S8_IrIxBu3Chnv8G9okGQnZZP8cewXY40xE6IZ0IxhXjQzBV-SQKB6Aj0Hq3XnDC5RrlptqTSVy66mijb7vQdwxtJiH-hxgDJMzClCdnfxZqzLFTeIfu824BvAofrZRHk6zxREQOWYjByPbDn5uGYx6lB8wSJ2tlNWELVuR9vA/s1600/Studio-Bot-Editorial_header_green.png)
 
 <h1 align="center">Hi 👋, I'm Pramit</h1>
 <h3 align="center">Android developer x Competitive Programmer from India.</h3>
